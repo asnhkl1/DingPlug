@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DingPlug</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	 <string name="accessibility_description">钉钉自动签到程序，其中可能需要一些权限，并不会获取您的手机信息，请您放心开启！</string>
+</resources>

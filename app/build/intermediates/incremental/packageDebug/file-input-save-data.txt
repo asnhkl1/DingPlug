@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Apr 05 11:54:54 CST 2017
+2.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+2.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.file=/Users/mr.lee/Documents/DingPlug/app/build/intermediates/res/resources-debug.ap_/res/xml/red_service_config.xml
+0.set=ANDROID_RESOURCE
